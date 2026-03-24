@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/project",
+      "destination": "https://www.notion.so/newgox/jupiter-2900420881ce80c5bd69d338fffbf5d6",
+      "permanent": false
+    },
+    {
+      "source": "/docs",
+      "destination": "https://www.notion.so/your-docs-link",
+      "permanent": false
+    },
+    {
+      "source": "/blog",
+      "destination": "https://www.notion.so/your-blog-link",
+      "permanent": false
+    }
+  ]
+}
