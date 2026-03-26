@@ -1,18 +1,18 @@
 {
   "redirects": [
     {
-      "source": "/project",
-      "destination": "https://www.notion.so/newgox/jupiter-2900420881ce80c5bd69d338fffbf5d6?source=copy_link",
+      "source": "/",
+      "destination": "https://www.notion.so/https://www.notion.so/newgox/DF-web3-32e0420881ce80a99b73fa5cf31a8611?source=copy_link",
       "permanent": false
     },
     {
-      "source": "/docs",
-      "destination": "https://www.notion.so/your-docs-link",
+      "source": "/",
+      "destination": "https://www.notion.so/xxxxxx",
       "permanent": false
     },
     {
-      "source": "/blog",
-      "destination": "https://www.notion.so/your-blog-link",
+      "source": "/",
+      "destination": "https://www.notion.so/xxxxxx",
       "permanent": false
     }
   ]
